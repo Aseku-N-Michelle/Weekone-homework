@@ -1,1 +1,1 @@
-# Weekone-homework
+This repository is for my week one Git homework, where i practised using git status,add,commit,push and pull.                # Weekone-homework
